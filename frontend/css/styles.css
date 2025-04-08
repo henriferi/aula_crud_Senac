@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background: #f4f4f4;
+  }
+  h1 {
+    margin-bottom: 20px;
+  }
+  input, button {
+    padding: 8px;
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  #comentarios {
+    margin-top: 20px;
+  }
+  .comentario {
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  .comentario input {
+    width: 70%;
+  }
+  .comentario button {
+    margin-left: 5px;
+  }

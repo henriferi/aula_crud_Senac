@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Arquivos de build ou cache
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+
+# Histórico do navegador (Live Server, etc.)
+*.local
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
